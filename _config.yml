@@ -53,7 +53,7 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   #- line: Email: james2307mr@gmail.com
-  - line: Whatsapp: +1 (570) 409-7768
+  #- line: Whatsapp: +1 (570) 409-7768
 
 # Credits content
 credits: 'GRE® are registered trademarks of Educational Testing Service (ETS). This website is not endorsed or approved by ETS. Magoosh Accounts are sole property of Magoosh Inc (Magoosh). This website is not endorsed or approved by Magoosh. '
