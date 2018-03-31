@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 2
+title: Three Months
 img: cake.png
 alt: image-alt
 client: The GRE account provided might have a validity of more than three months. If it is, we would be taking the account back after the three month period is over.
