@@ -18,22 +18,12 @@
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                           -->
                             {% if post.description %}
-                                <p>{{ post.description }}</p>
+                            <p><strong>{{ post.description }}</strong></p>
                             {% endif %}
                             <ul class="list-inline item-details">
                                 {% if post.client %}
                                     <li>Note:
-                                        <strong>{{ post.client }}</strong>
-                                    </li>
-                                {% endif %}
-                                {% if post.project-date %}
-                                    <li>Date:
-                                        <strong>{{ post.project-date }}</strong>
-                                    </li>
-                                {% endif %}
-                                {% if post.category %}
-                                    <li>Service:
-                                        <strong>{{ post.category }}</strong>
+                                        {{ post.client }}
                                     </li>
                                 {% endif %}
                             </ul>
