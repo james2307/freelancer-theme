@@ -335,7 +335,7 @@ footer h3 {
 }
 
 footer .footer-above {
-    padding-top: 50px;
+    padding-top: 30px;
     background-color: #{{ site.color.secondary }};
 }
 
