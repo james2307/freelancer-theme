@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 1
+title: One Month GRE Magoosh Account
 img: cabin.png
 alt: image-alt
 client: The GRE account provided might have a validity of more than one month. If it is, we would be taking the account back after the one month period is over.
