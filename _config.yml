@@ -43,15 +43,15 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://www.srcounselling.in
+    url: www.srcounselling.in
   - title: facebook-f
-    url: https://www.srcounselling.in
+    url: www.srcounselling.in
   - title: reddit-alien
-    url: https://www.srcounselling.in
+    url: www.srcounselling.in
   - title: whatsapp
-    url: https://www.srcounselling.in
+    url: www.srcounselling.in
   #- title: github
-   # url: https://www.srcounselling.com
+   # url: www.srcounselling.com
 
 # Postal address (add as many lines as necessary)
 address:
