@@ -5,6 +5,6 @@ title: One Month
 img: cabin.png
 alt: image-alt
 client: The GRE account provided might have a validity of more than one month. If it is, we would be taking the account back after the one month period is over.
-description: Looking for a GRE Magoosh Account for one month? Well great, we can provide you that for 29$.
+description: Looking for a GRE Magoosh Account for one month? Well great, we can provide you that for 35$.
 
 ---
