@@ -43,13 +43,13 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: www.srcounselling.in
+    url: http://www.srcounselling.in
   - title: facebook-f
-    url: www.srcounselling.in
+    url: http://www.srcounselling.in
   - title: reddit-alien
-    url: www.srcounselling.in
+    url: http://www.srcounselling.in
   - title: whatsapp
-    url: www.srcounselling.in
+    url: http://www.srcounselling.in
   #- title: github
    # url: www.srcounselling.com
 
