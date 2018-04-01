@@ -5,6 +5,6 @@ title: Three Months
 img: cake.png
 alt: image-alt
 client: The GRE account provided might have a validity of more than three months. If it is, we would be taking the account back after the three month period is over.
-description: Looking for a GRE Magoosh Account for three months? Well great, we can provide you that for 59$. Email us at contact@srcounselling.in!
+description: Looking for a GRE Magoosh Account for three months? Well great, we can provide you that for 59$. Email us at james2307mr@gmail.com!
 
 ---
