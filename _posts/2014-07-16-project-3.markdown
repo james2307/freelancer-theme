@@ -5,6 +5,6 @@ title: Six Months
 img: circus.png
 alt: image-alt
 client: The GRE account provided will have an exact validity of six months from the day of purchase.
-description: Looking for a GRE Magoosh Account for six months? Well great, we can provide you that for 79$.
+description: Looking for a GRE Magoosh Account for six months? Well great, we can provide you that for 79$. Email us at contact@srcounselling.in!
 
 ---
